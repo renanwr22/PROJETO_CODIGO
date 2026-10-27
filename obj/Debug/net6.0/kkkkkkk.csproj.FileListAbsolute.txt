@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\kkkkkkk\bin\Debug\net6.0\kkkkkkk.exe
+C:\Users\ALUNO\Desktop\kkkkkkk\bin\Debug\net6.0\kkkkkkk.deps.json
+C:\Users\ALUNO\Desktop\kkkkkkk\bin\Debug\net6.0\kkkkkkk.runtimeconfig.json
+C:\Users\ALUNO\Desktop\kkkkkkk\bin\Debug\net6.0\kkkkkkk.dll
+C:\Users\ALUNO\Desktop\kkkkkkk\bin\Debug\net6.0\kkkkkkk.pdb
+C:\Users\ALUNO\Desktop\kkkkkkk\obj\Debug\net6.0\kkkkkkk.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\kkkkkkk\obj\Debug\net6.0\kkkkkkk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\kkkkkkk\obj\Debug\net6.0\kkkkkkk.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\kkkkkkk\obj\Debug\net6.0\kkkkkkk.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\kkkkkkk\obj\Debug\net6.0\kkkkkkk.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\kkkkkkk\obj\Debug\net6.0\kkkkkkk.dll
+C:\Users\ALUNO\Desktop\kkkkkkk\obj\Debug\net6.0\refint\kkkkkkk.dll
+C:\Users\ALUNO\Desktop\kkkkkkk\obj\Debug\net6.0\kkkkkkk.pdb
+C:\Users\ALUNO\Desktop\kkkkkkk\obj\Debug\net6.0\kkkkkkk.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\kkkkkkk\obj\Debug\net6.0\ref\kkkkkkk.dll
